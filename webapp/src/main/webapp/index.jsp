@@ -10,4 +10,4 @@ good see all the content is excultable
 
 ansible script is running in this job
 
-nice learning
+nice learning and great teaching
